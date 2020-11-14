@@ -16,9 +16,18 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 * Used Pandas to print the summary statistics for the precipitation data.
 
 ## Results
+June Summary Results
 
-As you can see the result are for June and December. Choosing a month that is in the summer and in the winter you can see the differnce that tthe emperature makes. The precipitation in June as you see from the anaylsis is higher than it is in the winter the high the temperature the water in the air seems to be higher.
+![](https://github.com/alainacox/surf-s_up/blob/main/June%20Summary.png)
+
+December Summary Results
+
+![](https://github.com/alainacox/surf-s_up/blob/main/December%20Summary.png)
+
+* As you can see that the differnce in temperature is slightly higher in June than in December
+* The count in s high in June than in December
+* There is only a 2 degrees in between June and December maximum and a 8 degree between the minimum
 
 ## Summary
 
-In June you can see that there are multiple dates that have the same level in preciptiation. As you can see from the additonal queries that the levels faulactes. But you can see the maximum level didn't go above 60 and the mimuimum didn't go below 30.
+You can see that there are multiple dates that have the same temperature. As you can see from the additonal queries that the average temperatures for June and December fall in the 70 degree range. The temperature maximum maybe higher in June because the count is by 183 dates. With that being shown that may be way June is higher in all because it had a larger data set.
